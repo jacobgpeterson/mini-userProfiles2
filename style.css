@@ -1,0 +1,12 @@
+html, body {
+	height:100%;
+	width: 100%;
+	background-image: url("http://www.rssportscars.com/photos/cars/2014-lamborghini-veneno-roadster/veneno-roadster-h.jpg");
+	background-size: cover;
+}
+div {
+	padding: 20px 10px;
+}
+h1 {
+	color: orange;
+}
